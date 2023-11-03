@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\ass1\\ass1.csproj",
+      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\ass1\\ass1.csproj",
       "projectName": "ass1",
-      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\ass1\\ass1.csproj",
+      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\ass1\\ass1.csproj",
       "packagesPath": "C:\\Users\\DEJAIN5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\ass1\\obj\\",
+      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\ass1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEJAIN5\\AppData\\Roaming\\NuGet\\NuGet.Config"

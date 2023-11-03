@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\helloworld\\helloworld.csproj",
+      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\helloworld\\helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\helloworld\\helloworld.csproj",
+      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\helloworld\\helloworld.csproj",
       "packagesPath": "C:\\Users\\DEJAIN5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\helloworld\\obj\\",
+      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\helloworld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEJAIN5\\AppData\\Roaming\\NuGet\\NuGet.Config"

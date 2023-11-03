@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\evenodd\\evenodd.csproj": {}
+    "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\evenodd\\evenodd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\evenodd\\evenodd.csproj": {
+    "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\evenodd\\evenodd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\evenodd\\evenodd.csproj",
+        "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\evenodd\\evenodd.csproj",
         "projectName": "evenodd",
-        "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\evenodd\\evenodd.csproj",
+        "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\evenodd\\evenodd.csproj",
         "packagesPath": "C:\\Users\\DEJAIN5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\evenodd\\obj\\",
+        "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\evenodd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DEJAIN5\\AppData\\Roaming\\NuGet\\NuGet.Config"

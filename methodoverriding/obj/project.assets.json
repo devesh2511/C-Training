@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\methodoverriding\\methodoverriding.csproj",
+      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\methodoverriding\\methodoverriding.csproj",
       "projectName": "methodoverriding",
-      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\methodoverriding\\methodoverriding.csproj",
+      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\methodoverriding\\methodoverriding.csproj",
       "packagesPath": "C:\\Users\\DEJAIN5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\methodoverriding\\obj\\",
+      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\methodoverriding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEJAIN5\\AppData\\Roaming\\NuGet\\NuGet.Config"

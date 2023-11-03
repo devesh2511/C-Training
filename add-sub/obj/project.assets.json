@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\add-sub\\add-sub.csproj",
+      "projectUniqueName": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\add-sub\\add-sub.csproj",
       "projectName": "add-sub",
-      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\add-sub\\add-sub.csproj",
+      "projectPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\add-sub\\add-sub.csproj",
       "packagesPath": "C:\\Users\\DEJAIN5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\c#training\\add-sub\\obj\\",
+      "outputPath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\add-sub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEJAIN5\\AppData\\Roaming\\NuGet\\NuGet.Config"
