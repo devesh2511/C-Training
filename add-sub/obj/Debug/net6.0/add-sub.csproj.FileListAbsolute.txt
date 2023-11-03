@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\bin\Debug\net6.0\add-sub.exe
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\bin\Debug\net6.0\add-sub.deps.json
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\bin\Debug\net6.0\add-sub.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\bin\Debug\net6.0\add-sub.dll
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\bin\Debug\net6.0\add-sub.pdb
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.dll
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\refint\add-sub.dll
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.pdb
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\add-sub.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\c#training\add-sub\obj\Debug\net6.0\ref\add-sub.dll

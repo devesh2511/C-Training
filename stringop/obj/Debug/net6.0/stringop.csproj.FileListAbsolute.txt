@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\bin\Debug\net6.0\stringop.exe
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\bin\Debug\net6.0\stringop.deps.json
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\bin\Debug\net6.0\stringop.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\bin\Debug\net6.0\stringop.dll
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\bin\Debug\net6.0\stringop.pdb
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.dll
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\refint\stringop.dll
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.pdb
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\stringop.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\c#training\stringop\obj\Debug\net6.0\ref\stringop.dll

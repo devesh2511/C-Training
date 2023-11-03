@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\bin\Debug\net6.0\methodoverriding.exe
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\bin\Debug\net6.0\methodoverriding.deps.json
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\bin\Debug\net6.0\methodoverriding.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\bin\Debug\net6.0\methodoverriding.dll
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\bin\Debug\net6.0\methodoverriding.pdb
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.dll
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\refint\methodoverriding.dll
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.pdb
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\methodoverriding.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\c#training\methodoverriding\obj\Debug\net6.0\ref\methodoverriding.dll
