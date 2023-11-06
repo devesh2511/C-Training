@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\bin\Debug\net6.0\extensionmethod.exe
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\bin\Debug\net6.0\extensionmethod.deps.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\bin\Debug\net6.0\extensionmethod.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\bin\Debug\net6.0\extensionmethod.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\bin\Debug\net6.0\extensionmethod.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\refint\extensionmethod.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\extensionmethod.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionmethod\obj\Debug\net6.0\ref\extensionmethod.dll

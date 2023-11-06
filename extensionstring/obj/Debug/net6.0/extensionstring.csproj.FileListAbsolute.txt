@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\bin\Debug\net6.0\extensionstring.exe
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\bin\Debug\net6.0\extensionstring.deps.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\bin\Debug\net6.0\extensionstring.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\bin\Debug\net6.0\extensionstring.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\bin\Debug\net6.0\extensionstring.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\refint\extensionstring.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\extensionstring.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\extensionstring\obj\Debug\net6.0\ref\extensionstring.dll

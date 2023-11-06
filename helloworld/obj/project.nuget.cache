@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WKNb22lXVsPc866StViHZsnX6zXrBfbvjSNpSI3LMHhbSqPpwvM0nLeHtSMzna9hQ0rH3zlrjx4BLTA4Np/F7g==",
+  "dgSpecHash": "fuU3uHPhhA7kxolXFkiJGHFhV/3k9qcwMIS42BNvEuM1Ba1kYWEQYMVxhdlaoEO3zTuaui71ZUqPs5F8dYXoEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\helloworld\\helloworld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

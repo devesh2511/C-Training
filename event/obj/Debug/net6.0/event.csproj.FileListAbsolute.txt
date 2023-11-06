@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\bin\Debug\net6.0\event.exe
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\bin\Debug\net6.0\event.deps.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\bin\Debug\net6.0\event.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\bin\Debug\net6.0\event.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\bin\Debug\net6.0\event.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\refint\event.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\event.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\event\obj\Debug\net6.0\ref\event.dll

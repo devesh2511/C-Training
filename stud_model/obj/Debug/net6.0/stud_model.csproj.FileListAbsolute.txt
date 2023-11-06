@@ -1,0 +1,15 @@
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.csproj.CoreCompileInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\bin\Debug\net6.0\stud_model.exe
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\bin\Debug\net6.0\stud_model.deps.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\bin\Debug\net6.0\stud_model.runtimeconfig.json
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\bin\Debug\net6.0\stud_model.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\bin\Debug\net6.0\stud_model.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\refint\stud_model.dll
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.pdb
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\stud_model.genruntimeconfig.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\stud_model\obj\Debug\net6.0\ref\stud_model.dll

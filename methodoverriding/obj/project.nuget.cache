@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "76BGBopjw93VIIKCLE3r+ADnd+TGRqCuEkh8A7YMEgrLY4IHwepaz233a+jYZ2pUyRZoQPNXdfhRgsK3ch+hbQ==",
+  "dgSpecHash": "gWzbpRE5yqAw9YvLR+r+Q717Kc93Ht2YiPksR+MmR1TkqTF5JcCeSy0e8PkFKBSTxFIKmBFlcTbY3GYCEZaWQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\DEJAIN5\\Documents\\data\\github\\C-Training\\methodoverriding\\methodoverriding.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\DEJAIN5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

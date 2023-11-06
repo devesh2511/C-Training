@@ -1,0 +1,5 @@
+C:\Users\DEJAIN5\Documents\data\github\C-Training\switchcase\obj\Debug\net6.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\switchcase\obj\Debug\net6.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEJAIN5\Documents\data\github\C-Training\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\DEJAIN5\Documents\data\github\C-Training\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfo.cs
+C:\Users\DEJAIN5\Documents\data\github\C-Training\switchcase\obj\Debug\net6.0\switchcase.csproj.CoreCompileInputs.cache
